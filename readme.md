@@ -14,3 +14,9 @@ Insertion Sort algoritmasının en kötü durum (Worst Case) zaman karmaşıklı
 # Time Complexity: 18 Sayısının Durumu
 Dizi sıralandıktan sonra 18 sayısı dizinin ortasında yer aldığından, Average case kapsamına girer. ​
 (Average case: Aradığımız sayının ortada olması)
+
+# [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımı
+1. [2, 3, 5, 8, 7, 9, 4, 15, 6]
+2. [2, 3, 5, 8, 7, 9, 4, 15, 6]
+3. [2, 3, 4, 8, 7, 9, 5, 15, 6]
+4. [2, 3, 4, 5, 7, 9, 8, 15, 6]
